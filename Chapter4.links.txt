@@ -1,0 +1,5 @@
+pb.75... pg.84 link examples (ie: ../../)
+<a href='external absolute url-or-internal relative url'>text</a> .... anything between the opening/closing 'a' tag is known as link text
+Open in new window: <a href='external url' target="_blank">text</a>
+URL... uniform resource locator
+In website directories (and other hierarchical folder/file structures; this is the way url path is formed), the root folder is the parent and grandparent of the folders in its folder/file system.
