@@ -1,0 +1,4 @@
+pg.246
+Color terminology
+Backgound (background-color:) and foreground (color:)
+Contrast, opasity, 
